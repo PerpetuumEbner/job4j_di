@@ -19,7 +19,7 @@
 
 ## Запуск проекта:
 
-* `docker build -t job4j_docker . `
+* `docker build -t job4j_di . `
 * `docker run id`
 
 ***
